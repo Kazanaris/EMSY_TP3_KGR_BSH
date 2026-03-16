@@ -11,4 +11,5 @@ les monnaies disponible sont les suivantes :
   * Peso Mexicain / MXN
   * Couronne norvégienne / NOK
 + choix de la devise à convertir
-pour choisir la devise a convertire, il faut choisir dans la liste les 4 pays disponible
+pour choisir la devise a convertire, il faut choisir dans la liste les 4 pays disponible :
+![Texte alternatif](Application_devise_converter/image/money_in.png)
