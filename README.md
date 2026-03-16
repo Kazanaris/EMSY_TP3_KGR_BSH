@@ -1,6 +1,7 @@
 # EMSY_TP3_KGR_BSH
 Repo du Git pout le TP3 d'EMSY
 
+##installation de la carte SD
 
 ## Convertisseur de données 
 ### Mode d'emploi
@@ -20,6 +21,7 @@ Pour choisir la devise que l'on veut avoir apres conversion, de la meme manière
 
 #### Ecriture de la somme a convertir
 Pour ecrire la somme a convertir, il faut ecrire dans la zone de texte encardée en rouge ci dessous : 
+![Texte alternatif](Application_devise_converter/image/Write_money.png)
 
 #### Conversion
 Pour convertir les valeurs entrées, il faut cliqué sur le bouton convertir encardé en rouge ci-dessous :
