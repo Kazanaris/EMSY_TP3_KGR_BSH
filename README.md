@@ -1,7 +1,44 @@
 # EMSY_TP3_KGR_BSH
 Repo du Git pout le TP3 d'EMSY
 
-##installation de la carte SD
+## installation de la carte SD
+pour installer l'OS sur la carte sd, il faut suivre la demarche suivante : 
+* installer Raspberry imager
+* une fois sur le logiciel la page suivante sera afficher
+![Texte alternatif](raspberry_imager/main_page.png)
+
+une fois sur cette page, il y aura les 3 informations a mettre
+1. le modele de la carte
+2. l'os que l'on veut
+3. sur quel disque de stockage
+### choix de la carte
+![Texte alternatif](raspberry_imager/pi3.png)
+
+pour ce tp, le raspberry pi 3 a été choisi.
+### choix de l'OS
+une fois dans le menu,choisir "use custom" 
+
+![Texte alternatif](raspberry_imager/os_choice.png)
+
+une fois l'option selectionner, il faut prendre l'os suivant : 
+
+![Texte alternatif](raspberry_imager/os_choixe_bm.png)
+
+### choix du stockage
+
+![Texte alternatif](raspberry_imager/storage.png)
+
+### installation
+
+un menu s'ouvrira pour avoir des options suivante et il faudra prendre les suivantes : 
+
+![Texte alternatif](raspberry_imager/last_thing.png)
+
+et pour finir, il faut validé l'installation et attendre
+
+![Texte alternatif](raspberry_imager/validation.png)
+
+## gestion du raspberry
 
 ## Convertisseur de données 
 ### Mode d'emploi
