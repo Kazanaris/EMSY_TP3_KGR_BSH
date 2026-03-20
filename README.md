@@ -77,3 +77,7 @@ Pour ecrire la somme a convertir, il faut ecrire dans la zone de texte encardée
 #### Conversion
 Pour convertir les valeurs entrées, il faut cliqué sur le bouton convertir encardé en rouge ci-dessous :
 ![Texte alternatif](Application_devise_converter/image/money_convert.png)
+
+
+##Communiquation RS232
+
