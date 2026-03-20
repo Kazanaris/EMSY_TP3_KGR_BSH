@@ -46,13 +46,15 @@ Pour modifier ça, il faut se rendre sur l'interface web de notre raspberry.
 Pour y aller, il faut entrer l'adresse ip de la meme maniere que suit. (http://10.228.134.51:8080/)
 Pour trouver l'adresse IP, il faut aller sur la page d'accueil du raspberry et prendre l'ip comme suit : 
 ![Texte alternatif](raspberry_imager/device_info.jpg)
+
 Le user name et mot de passe si non defini lors de l'installation seront administator nom et admin comme mdp
 
 Ensuite, une fois sur la page suivante, mettre les memes informations sur la resolution et l'orientation.
 ![Texte alternatif](raspberry_imager/device_pc.png)
 
 ## Ping du raspberry
-En etant sur un terminal windows, pour tester la connexion, nous avons fait un ping qui à bien fonctionner nous prouvant que la device était bien atteignable
+En etant sur un terminal windows, pour tester la connexion, nous avons fait un ping qui à bien fonctionner nous prouvant que la device était bien atteignable.
+
 ![Texte alternatif](raspberry_imager/ping.jpg)
 ## Convertisseur de données 
 ### Mode d'emploi
