@@ -79,5 +79,28 @@ Pour convertir les valeurs entrées, il faut cliqué sur le bouton convertir enc
 ![Texte alternatif](Application_devise_converter/image/money_convert.png)
 
 
-##Communiquation RS232
+## Communiquation RS232
+### Faire la communication
+#### Hardware
+Brancher le câble RS232 au PC et brancher l'adaptateur USB-RS232 à l'autre bout du câble RS232.
+Brancher le connecteur USB de l'adaptateur au Raspberry Pi 3.
+Brancher le câble Ethernet du réseau bleu au Raspberry Pi 3.
+
+#### Sur l'écran
+Sous Select Device, sélectionner le text de la partie haute du rectangle (\\?\FTDIBUS.....).
+Une fois cela fait, appuyer sur Connect.
+Sur PuTTY, sous "Serial", dans "Select a serial line", écrire "COM4" puis appuyer sur "open".
+
+
+### Test du Read Data
+Dans la pop-up ouverte par PuTTY, écrivez (rapidement) un mot ou une phrase (Par exemple : Je suis Kirian).
+Cette dernière s'affichera dans le text box "Read Data".
+
+
+### Test du Write Data
+Dans le text box "Write Data" écrivez un mot ou une phrase (par exemple : Toto) puis appuyez sur le bouton "Write".
+
+Une fois cela fait, vous pourrez voir sur PuTTY le mot ou la phrase écrit.
+
+
 
