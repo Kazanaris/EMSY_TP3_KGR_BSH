@@ -104,4 +104,8 @@ Dans le text box "Write Data" écrivez un mot ou une phrase (par exemple : Toto)
 Une fois cela fait, vous pourrez voir sur PuTTY le mot ou la phrase écrit.
 ![Texte alternatif](Apllication_RS_232/image/Preuve_read_EMSY.png)
 
-
+Nous avons implémenté l'application de conversion de devise dans l'aplication de communication via RS232.
+Malheureusement la conversion n'arrive pas à se faire et les drapeaux des différents pays n'apparaissent pas lorsque l'on sélectionne leurs monnaies.
+Nous arrivons a rentrer une valeur à convertir mais cette dernière est affichée tel quel dans le text box de la valeur convertie.
+Ce sont les deux éléments qui ne fonctionnent pas dans cette application, ces problèmes n'apparaissent pas dans l'application de conversion de devises initiales.
+Cette dernière est entierement fonctionnelle.
