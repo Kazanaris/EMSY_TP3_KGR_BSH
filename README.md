@@ -96,13 +96,16 @@ Sur PuTTY, sous "Serial", dans "Select a serial line", écrire "COM4" puis appuy
 ### Test du Read Data
 Dans la pop-up ouverte par PuTTY, écrivez (rapidement) un mot ou une phrase (Par exemple : Je suis Kirian).
 Cette dernière s'affichera dans le text box "Read Data".
+
 ![Texte alternatif](Apllication_RS_232/image/Test_Read_EMSY.jpg)
 
 ### Test du Write Data
 Dans le text box "Write Data" écrivez un mot ou une phrase (par exemple : Toto) puis appuyez sur le bouton "Write".
+
 ![Texte alternatif](Apllication_RS_232/image/Test_Write_EMSY.jpg)
 
 Une fois cela fait, vous pourrez voir sur PuTTY le mot ou la phrase écrit.
+
 ![Texte alternatif](Apllication_RS_232/image/Preuve_read_EMSY.png)
 
 Nous avons implémenté l'application de conversion de devise dans l'aplication de communication via RS232.
