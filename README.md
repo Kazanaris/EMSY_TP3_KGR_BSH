@@ -53,7 +53,7 @@ ensuite une fois sur la page suivante mettre les memes informations sur la resol
 
 ## ping du raspberry
 en etant sur un terminal windows, pour tester la connexion, nous avons fait un ping qui à bien fonctionner nous prouvant que la device etait bien atteignable
-![Texte alternatif](raspberry_imager/ping.png)
+![Texte alternatif](raspberry_imager/ping.jpg)
 ## Convertisseur de données 
 ### Mode d'emploi
 #### Monnaie disponible
