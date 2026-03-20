@@ -90,6 +90,7 @@ Brancher le câble Ethernet du réseau bleu au Raspberry Pi 3.
 Sous Select Device, sélectionner le text de la partie haute du rectangle (\\?\FTDIBUS.....).
 Une fois cela fait, appuyer sur Connect.
 Sur PuTTY, sous "Serial", dans "Select a serial line", écrire "COM4" puis appuyer sur "open".
+
 ![Texte alternatif](Apllication_RS_232/image/config_PUTTY.png)
 
 ### Test du Read Data
