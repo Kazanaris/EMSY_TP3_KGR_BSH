@@ -1,58 +1,58 @@
 # EMSY_TP3_KGR_BSH
 Repo du Git pout le TP3 d'EMSY
 
-## installation de la carte SD
-pour installer l'OS sur la carte sd, il faut suivre la demarche suivante : 
-* installer Raspberry imager
-* une fois sur le logiciel la page suivante sera afficher
+## Installation de la carte SD
+Pour installer l'OS sur la carte sd, il faut suivre la demarche suivante : 
+* Installer Raspberry imager.
+* Une fois sur le logiciel la page suivante sera afficher.
 ![Texte alternatif](raspberry_imager/main_page.png)
 
-une fois sur cette page, il y aura les 3 informations a mettre
-1. le modele de la carte
-2. l'os que l'on veut
-3. sur quel disque de stockage
-### choix de la carte
+Une fois sur cette page, il y aura les 3 informations a mettre.
+1. Le modele de la carte.
+2. L'os que l'on veut.
+3. Sur quel disque de stockage.
+### Choix de la carte
 ![Texte alternatif](raspberry_imager/pi3.png)
 
 pour ce tp, le raspberry pi 3 a été choisi.
-### choix de l'OS
-une fois dans le menu,choisir "use custom" 
+### Choix de l'OS
+Une fois dans le menu, choisir "use custom".
 
 ![Texte alternatif](raspberry_imager/os_choice.png)
 
-une fois l'option selectionner, il faut prendre l'os suivant : 
+Une fois l'option selectionné, il faut prendre l'os suivant : 
 
 ![Texte alternatif](raspberry_imager/os_choixe_bm.png)
 
-### choix du stockage
+### Choix du stockage
 
 ![Texte alternatif](raspberry_imager/storage.png)
 
-### installation
+### Installation
 
-un menu s'ouvrira pour avoir des options suivante et il faudra prendre les suivantes : 
+Un menu s'ouvrira pour avoir des options suivante et il faudra prendre les suivantes : 
 
 ![Texte alternatif](raspberry_imager/last_thing.png)
 
-et pour finir, il faut validé l'installation et attendre
+Et pour finir, il faut valider l'installation et attendre
 
 ![Texte alternatif](raspberry_imager/validation.png)
 
-## gestion du raspberry
-une fois l'installation de la carte SD effectuer, il la mettre dans la carte et allumer le raspberry.
-une fois cela fait, il faudra modifier l'orientation ainsi que la resolution pour pouvoir bien voir les choses.
-pour modifier ca, il faut se rendre sur l'interface web de notre raspberry.
+## Gestion du raspberry
+Une fois l'installation de la carte SD effectuer, il la mettre dans la carte et allumer le raspberry.
+Une fois cela fait, il faudra modifier l'orientation ainsi que la resolution pour pouvoir bien voir les choses.
+Pour modifier ça, il faut se rendre sur l'interface web de notre raspberry.
 
-pour y aller, il faut entrée l'adresse ip de la meme maniere que suit. (http://10.228.134.51:8080/)
-pour trouver l'adresse ip, il faut aller sur la page d'accueil du raspberry et prendre l'ip comme suit : 
+Pour y aller, il faut entrer l'adresse ip de la meme maniere que suit. (http://10.228.134.51:8080/)
+Pour trouver l'adresse IP, il faut aller sur la page d'accueil du raspberry et prendre l'ip comme suit : 
 ![Texte alternatif](raspberry_imager/device_info.jpg)
-le user name et mot de passe si non defini lors de l'installation seront administator nom et admin comme mdp
+Le user name et mot de passe si non defini lors de l'installation seront administator nom et admin comme mdp
 
-ensuite une fois sur la page suivante mettre les memes informations sur la resolution et l'orientation.
+Ensuite, une fois sur la page suivante, mettre les memes informations sur la resolution et l'orientation.
 ![Texte alternatif](raspberry_imager/device_pc.png)
 
-## ping du raspberry
-en etant sur un terminal windows, pour tester la connexion, nous avons fait un ping qui à bien fonctionner nous prouvant que la device etait bien atteignable
+## Ping du raspberry
+En etant sur un terminal windows, pour tester la connexion, nous avons fait un ping qui à bien fonctionner nous prouvant que la device etait bien atteignable
 ![Texte alternatif](raspberry_imager/ping.jpg)
 ## Convertisseur de données 
 ### Mode d'emploi
