@@ -39,7 +39,17 @@ et pour finir, il faut validé l'installation et attendre
 ![Texte alternatif](raspberry_imager/validation.png)
 
 ## gestion du raspberry
+une fois l'installation de la carte SD effectuer, il la mettre dans la carte et allumer le raspberry.
+une fois cela fait, il faudra modifier l'orientation ainsi que la resolution pour pouvoir bien voir les choses.
+pour modifier ca, il faut se rendre sur l'interface web de notre raspberry.
 
+pour y aller, il faut entrée l'adresse ip de la meme maniere que suit. (http://10.228.134.51:8080/)
+pour trouver l'adresse ip, il faut aller sur la page d'accueil du raspberry et prendre l'ip comme suit : 
+![Texte alternatif](raspberry_imager/device_info.png)
+le user name et mot de passe si non defini lors de l'installation seront administator nom et admin comme mdp
+
+ensuite une fois sur la page suivante mettre les memes informations sur la resolution et l'orientation.
+![Texte alternatif](raspberry_imager/device_pc.png)
 ## Convertisseur de données 
 ### Mode d'emploi
 #### Monnaie disponible
