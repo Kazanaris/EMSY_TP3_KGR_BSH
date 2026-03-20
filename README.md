@@ -14,7 +14,7 @@ Une fois sur cette page, il y aura les 3 informations a mettre.
 ### Choix de la carte
 ![Texte alternatif](raspberry_imager/pi3.png)
 
-pour ce tp, le raspberry pi 3 a été choisi.
+Pour ce tp, le raspberry pi 3 a été choisi.
 ### Choix de l'OS
 Une fois dans le menu, choisir "use custom".
 
@@ -52,7 +52,7 @@ Ensuite, une fois sur la page suivante, mettre les memes informations sur la res
 ![Texte alternatif](raspberry_imager/device_pc.png)
 
 ## Ping du raspberry
-En etant sur un terminal windows, pour tester la connexion, nous avons fait un ping qui à bien fonctionner nous prouvant que la device etait bien atteignable
+En etant sur un terminal windows, pour tester la connexion, nous avons fait un ping qui à bien fonctionner nous prouvant que la device était bien atteignable
 ![Texte alternatif](raspberry_imager/ping.jpg)
 ## Convertisseur de données 
 ### Mode d'emploi
@@ -63,19 +63,23 @@ Les monnaies disponible sont les suivantes :
   * Peso Mexicain / MXN
   * Couronne norvégienne / NOK
 #### Choix de la devise à convertir
-Pour choisir la devise a convertire, il faut choisir dans la liste les 4 pays disponible :
+Pour choisir la devise à convertir, il faut choisir dans la liste les 4 pays disponible :
+
 ![Texte alternatif](Application_devise_converter/image/money_in.png)
 
 #### Choix de la devise à convertir
 Pour choisir la devise que l'on veut avoir apres conversion, de la meme manière que la device a convertir, il faut choisir parmis les 4 pays disponible :
+
 ![Texte alternatif](Application_devise_converter/image/money_out.png)
 
 #### Ecriture de la somme a convertir
-Pour ecrire la somme a convertir, il faut ecrire dans la zone de texte encardée en rouge ci dessous : 
+Pour ecrire la somme a convertir, il faut ecrire dans la zone de texte encardée en rouge ci dessous :
+
 ![Texte alternatif](Application_devise_converter/image/Write_money.png)
 
 #### Conversion
 Pour convertir les valeurs entrées, il faut cliqué sur le bouton convertir encardé en rouge ci-dessous :
+
 ![Texte alternatif](Application_devise_converter/image/money_convert.png)
 
 
