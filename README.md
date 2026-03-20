@@ -90,17 +90,18 @@ Brancher le câble Ethernet du réseau bleu au Raspberry Pi 3.
 Sous Select Device, sélectionner le text de la partie haute du rectangle (\\?\FTDIBUS.....).
 Une fois cela fait, appuyer sur Connect.
 Sur PuTTY, sous "Serial", dans "Select a serial line", écrire "COM4" puis appuyer sur "open".
-
+![Texte alternatif](Apllication_RS_232/image/config_PUTTY.png)
 
 ### Test du Read Data
 Dans la pop-up ouverte par PuTTY, écrivez (rapidement) un mot ou une phrase (Par exemple : Je suis Kirian).
 Cette dernière s'affichera dans le text box "Read Data".
-
+![Texte alternatif](Apllication_RS_232/image/Test_Read_EMSY.jpg)
 
 ### Test du Write Data
 Dans le text box "Write Data" écrivez un mot ou une phrase (par exemple : Toto) puis appuyez sur le bouton "Write".
+![Texte alternatif](Apllication_RS_232/image/Test_Write_EMSY.jpg)
 
 Une fois cela fait, vous pourrez voir sur PuTTY le mot ou la phrase écrit.
-
+![Texte alternatif](Apllication_RS_232/image/Preuve_read_EMSY.png)
 
 
